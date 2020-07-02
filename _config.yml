@@ -1,8 +1,8 @@
 remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 title: Mable Wang
 
-minimal_mistakes_skin: "mint"
-
+minimal_mistakes_skin: "dark"
+search: true
 
 
 plugins:
