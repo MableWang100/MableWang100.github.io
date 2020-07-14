@@ -17,7 +17,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
-# Defaults
+  
 defaults:
   # _posts
   - scope:
