@@ -1,7 +1,7 @@
 ---
 layout: defaults
-permalink: /index/
 title:  "Index Page"
+permalink: /index/
 ---
 
 index test

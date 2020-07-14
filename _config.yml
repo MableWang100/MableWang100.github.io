@@ -4,10 +4,15 @@ minimal_mistakes_skin    : "mint"
 title                    : "Mable Wang"
 name                     : "Mable Wang"
 description              : "An amazing website."
-url                      : https://MableWang100.github.io"
+url                      : "https://MableWang100.github.io"
 baseurl                  : /index/
 
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
   - jekyll-include-cache
   - jekyll-remote-theme
 
