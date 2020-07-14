@@ -1,7 +1,6 @@
 ---
-layout: single
+layout: default
 title:  "Index Page"
 permalink: /
 ---
 
-index test
