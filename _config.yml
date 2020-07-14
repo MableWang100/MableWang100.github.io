@@ -1,14 +1,11 @@
 theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "mint"
 
-locale                   : "en-US"
 title                    : "Mable Wang"
 name                     : "Mable Wang"
 description              : "An amazing website."
 url                      : https://MableWang100.github.io"
 baseurl                  : /index/
-masthead_title           : " "
-breadcrumbs              : true
 
 plugins:
   - jekyll-gist
@@ -17,7 +14,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
-  
+
 defaults:
   # _posts
   - scope:

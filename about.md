@@ -1,5 +1,7 @@
-layout: page
-title: "About Page"
-permalink: /about/
+---
+layout: default
+permalink: /index/
+title:  "About Page"
+---
 
-testing about [page](https://MableWang100.github.io/testHTML)
+testing about 
