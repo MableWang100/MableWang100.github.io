@@ -1,6 +1,6 @@
 theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint"
+theme                    : "mint"
 
 title                    : "Mable Wang"
 name                     : "Mable Wang"
@@ -17,16 +17,3 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      comments: false
-      share: false
-      related: false
