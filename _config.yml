@@ -6,8 +6,7 @@ title                    : "Mable Wang"
 name                     : "Mable Wang"
 description              : "An amazing website."
 url                      : https://MableWang100.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : /index/
 masthead_title           : " "
 breadcrumbs              : true
 
