@@ -1,4 +1,5 @@
 theme                    : "minimal-mistakes-jekyll"
+remote_theme             : "mmistakes/minimal-mistakes@4.19.3"
 minimal_mistakes_skin    : "mint"
 
 title                    : "Mable Wang"
@@ -8,6 +9,8 @@ url                      : https://MableWang100.github.io"
 baseurl                  : /index/
 
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
