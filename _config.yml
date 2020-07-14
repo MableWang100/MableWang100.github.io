@@ -1,27 +1,33 @@
-remote_theme: "mmistakes/minimal-mistakes@4.19.3"
-title: Mable Wang
+theme                    : "minimal-mistakes-jekyll"
+minimal_mistakes_skin    : "mint"
 
-minimal_mistakes_skin: "mint"
-search: true
-breadcrumbs: true
-read_time: false
-
-main:
-  - title: "About"
-    url: /about/
-  - title: "Resume"
-    url: /resume/
-  - title: "Skills"
-    url: /skills/
-  - title: "Projects"
-    url: /projects/
-
+locale                   : "en-US"
+title                    : "Mable Wang"
+name                     : "Mable Wang"
+description              : "An amazing website."
+url                      : https://MableWang100.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+masthead_title           : " "
+breadcrumbs              : true
 
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
   - jekyll-remote-theme
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
