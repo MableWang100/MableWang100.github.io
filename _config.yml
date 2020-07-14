@@ -9,11 +9,6 @@ url                      : https://MableWang100.github.io"
 baseurl                  : /index/
 
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
   - jekyll-include-cache
   - jekyll-remote-theme
 
