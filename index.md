@@ -1,5 +1,5 @@
 ---
-layout: defaults
+layout: single
 title:  "Index Page"
 permalink: /
 ---
