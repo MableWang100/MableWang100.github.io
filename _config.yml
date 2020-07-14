@@ -5,7 +5,7 @@ title                    : "Mable Wang"
 name                     : "Mable Wang"
 description              : "An amazing website."
 url                      : "https://MableWang100.github.io"
-baseurl                  : "https://MableWang100.github.io/"
+baseurl                  : ""
 
 plugins:
   - jekyll-paginate
